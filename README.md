@@ -7,6 +7,7 @@
 
 > 🔮 *An interactive Streamlit platform delivering deep geospatial insights, historic climate analysis, and machine learning-powered extreme weather forecasts for Nepal.*
 
+
 ---
 
 ## 📌 Table of Contents
