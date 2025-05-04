@@ -22,41 +22,9 @@ To build a machine learning-based pipeline that:
 - **Cimate data** from https://www.kaggle.com/datasets/saimondahal/nepal-daily-climate-1981-2019?resource=download
 - **Shape file**
 
-## 📁 Project Structure
-|
-|-- app.py                  # Main Streamlit app
-| 
-|-- data/
-|   |-- Shape_Data_district/          # Shape file of Nepal District boundary
-|   |-- dailyclimate-2.csv        # Daily climate data of Nepal
-|
-|-- models/    # Saved trained models and scalers
-|
-|-- utils/
-|   |-- data_utils.py       # Data Laoding
-|   |-- preprocessing.py    # Data pre-processing
-|   |-- visualizations.py   # data visualization
-|   |-- feature_engineering.py  # Feature engineering
-|   |-- label_generation.py     # Label generation (Extreme event labeling)
-|   |-- models.py           # model loading, training and evaluation
-|   |-- prediction.py       # Prediction
-|
-|-- pages_streamlit/
-|   |-- home_pg.py
-|   |-- data_exploration_pg.py
-|   |-- eda_with_climate_event_pg.py
-|   |-- feature_engineering_pg.py
-|   |-- model_training_pg.py
-|   |-- prediction_pg.py 
-|   |-- about_pg.py
-| 
-|-- requirements.txt        # Project dependencies
-|-- README.md
-|-- .gitignore
-
 
 ## 👥 Contributor(s)
-- Krishna Prasad Phelu
+- Suresh Subedi
 - Omdena's & NIC Capacity Building Batchll - Nepal instructors
 
 ## 📌 Disclaimer
