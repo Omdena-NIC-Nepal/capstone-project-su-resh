@@ -1,10 +1,6 @@
 # 🌪️ **Nepal Climate Sentinel**  
 ### *Extreme Weather Analytics & Forecasting Platform*
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen.svg)](https://omdena-nic-nepal-capstone-project-kpphelu-app-2xrh3e.streamlit.app/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Omdena-NIC-Nepal/capstone-project-KPPhelu)
-
----
-
 > 🔮 *An interactive Streamlit platform delivering deep geospatial insights, historic climate analysis, and machine learning-powered extreme weather forecasts for Nepal.*
 
 
@@ -34,7 +30,7 @@
 
 > Powered by **Python**, **Streamlit**, **GeoPandas**, and **scikit-learn** — the app fuses data science with climate awareness for smarter environmental decision-making.
 
-🎯 **[Live App Demo: Powered on Streamlit](https://sureshsubedi.streamlit.app/)**  
+🎯 **[Live App Demo: Powered on Streamlit](https://omdenaweather.streamlit.app/)**  
 💻 **[GitHub Repository](https://github.com/Omdena-NIC-Nepal/capstone-project-su-resh/)**
 
 ---
