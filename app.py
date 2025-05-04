@@ -68,12 +68,14 @@ def sidebar_nav():
         "Go to", list(PAGES.keys()), index=0, key="nav_selectbox"
     )
     st.sidebar.markdown("---")
-    st.sidebar.markdown("""
-**Managed by:** [**Suresh Subedi**](https://github.com/su-resh)  
-📧 **Email:** [**workwithsureshsubedi@gmail.com**](mailto:workwithsureshsubedi@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ersureshsubedi/)  
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/s_ur_es/)
+   st.sidebar.markdown("""
+**👤 Managed by Suresh Subedi**  
+📧 [workwithsureshsubedi@gmail.com](mailto:workwithsureshsubedi@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ersureshsubedi/)  
+📷 [Instagram](https://www.instagram.com/s_ur_es/)  
+💻 [GitHub](https://github.com/su-resh)
 """)
+
 
     return choice
 
